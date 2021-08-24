@@ -1,3 +1,10 @@
+# Output
+
+![Navbar and Header Image](./daridasar_output/Screenshot_2021-08-18_22-14-51.jpg)
+![Profit Image](./daridasar_output/Screenshot_2021-08-18_22-15-29.jpg)
+![Pricing Image](./daridasar_output/Screenshot_2021-08-24_17-17-48.jpg)
+![Footer Image](./daridasar_output/Screenshot_2021-08-24_17-18-29.jpg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
