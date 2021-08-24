@@ -330,6 +330,45 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <div className='container mx-auto border-t-2 border-gray-200'>
+          <div id='About' className='py-20 flex flex-row justify-between gap-4'>
+            <div className='flex flex-col w-2/5'>
+              <div className='text-gray-800 uppercase text-lg'>About</div>
+              <div className='text-gray-500 text-sm'>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Consectetur iusto culpa fugit id perspiciatis enim dolor
+                voluptatibus cum temporibus, omnis obcaecati maxime eum illo
+                laborum numquam repellat beatae reiciendis ut voluptate cumque
+                doloribus quo modi?
+              </div>
+            </div>
+            <div className='flex-1 flex flex-col'>
+              <div className='text-gray-800 uppercase text-lg'>services</div>
+              <div className='text-gray-500 text-sm'>
+                <div>Course</div>
+                <div>Intergration</div>
+                <div>Book</div>
+                <div>Blog</div>
+              </div>
+            </div>
+            <div className='flex-1 flex flex-col'>
+              <div className='text-gray-800 uppercase text-lg'>support</div>
+              <div className='text-gray-500 text-sm'>
+                <div>Contact</div>
+                <div>Privacy</div>
+                <div>Agreement</div>
+              </div>
+            </div>
+            <div className='flex-1 flex flex-col'>
+              <div className='text-gray-800 uppercase text-lg'>social</div>
+              <div className='text-gray-500 text-sm'>
+                <div>Facebook</div>
+                <div>Instagram</div>
+                <div>Youtube</div>
+              </div>
+            </div>
+          </div>
+        </div>
       </main>
 
       <footer className={styles.footer}>
